@@ -1,0 +1,42 @@
+{
+    "fromMe": [{
+        "id": "0000",
+        "details": [
+            [
+                "💐💐💐Hello bb!💐💐💐",
+                "Sayang nya aku 😘",
+                "Maafin aku ya suka bikin kamu sebel terus ☹️",
+                "🌹🌹🌹ini ada kiriman bunga buat permintaan maaf aku🌹🌹🌹",
+                "<pre>🍀🍀🍀🌹🍀🍀🍀🌹🍀🍀🍀 \n🍀🍀🌹🌹🌹🍀🌹🌹🌹🍀🍀 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🍀🍀🌹🌹🌹🌹🌹🌹🌹🍀🍀 \n🍀🍀🍀🌹🌹🌹🌹🌹🍀🍀🍀 \n🍀🍀🍀🍀🍀🌹🍀🍀🍀🍀🍀</pre>",
+                "aku kangen banget sama kamu!",
+                "I miss you so much😘",
+                "<img src='img/my-love.jpg'>",
+                "Liat? cantik banget kan?",
+                "Pacar aku itu!!",
+                "Cape ya sayangku hari ini?",
+                "istirahat ya sayang",
+                "Minum air putih yang banyak ya sayangku!",
+                "Maafin aku ya kalo aku sering bikin kamu marah....",
+                "yang perlu kamu tau",
+                "aku sayang banget sama kamu! ❤️",
+                "cinta banget sama kamu!😘❤️",
+                "Kamu cinta juga kan sama aku?"
+            ]
+        ],
+        "responses": [{
+            "content": "Iya! Aku cinta juga sama kamu!",
+            "nextAuthor": ["0001"]
+        }]
+    }, {
+        "id": "0001",
+        "details": [
+            [
+                "Yeay!!😁",
+                "Maaci ya bb udah sayang dan cinta sama aku😍",
+                "jangan tinggalin aku ya sayang!",
+                "I LOVE YOU SO MUCH! MWAHHH😘❤️"
+            ]
+        ]
+    }],
+    "fromUser": []
+}
